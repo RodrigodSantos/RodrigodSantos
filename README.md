@@ -12,6 +12,7 @@
   <img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rodrigo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="right" alt="Rodrigo-Gif" height="150" width="" src="https://cdn.discordapp.com/attachments/576084553148530689/1040598768887795732/Wtpp.gif">
   
 </div>
 <br>
