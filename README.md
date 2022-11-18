@@ -15,11 +15,11 @@
   <img align="right" alt="Rodrigo-Gif" height="150" width="" src="https://cdn.discordapp.com/attachments/576084553148530689/1040598768887795732/Wtpp.gif">
   
 </div>
+  
+  ##
 <br>
 <div> 
-  <a href="https://www.instagram.com/rodrigodsantosg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rodrigodsantosg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+
  ![snake gif](https://github.com/RodrigodSantos/RodrigodSantos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
