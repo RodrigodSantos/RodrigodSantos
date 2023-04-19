@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/RodrigodSantos">
-  <img width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=RodrigodSantos&show_icons=true&count_private=true&hide_border=true&title_color=009092&icon_color=00c6c7&text_color=c4ffff&bg_color=171f25" alt="Rodrigo dos Santos github stats" /> 
-  <img width="450px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigodSantos&layout=compact&hide_border=true&title_color=009092&text_color=c4ffff&bg_color=171f25" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RodrigodSantos&show_icons=true&count_private=true&hide_border=true&title_color=009092&icon_color=00c6c7&text_color=c4ffff&bg_color=171f25" alt="Rodrigo dos Santos github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigodSantos&layout=compact&hide_border=true&title_color=009092&text_color=c4ffff&bg_color=171f25" />
 </div>
   
 <div style="display: inline_block"><br>
