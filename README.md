@@ -8,7 +8,8 @@
 <div  align="center">
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://cdn.discordapp.com/attachments/576084553148530689/1040598768887795732/Wtpp.gif">
-    <h1 align="center">Melhores Tecnologias</h1>
+    <br><br>
+    <h1 align="center"></h1>
     <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
