@@ -17,7 +17,7 @@
 <h2> <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"> Estudando </h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 </p>
 
 <p align="center">
