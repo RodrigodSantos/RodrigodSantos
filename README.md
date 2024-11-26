@@ -11,7 +11,7 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,flask,postgres,react,nodejs,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,python,spring,flask,postgres,react,nodejs,javascript,html,css" />
 </p>
 
 <h2> <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"> Estudando </h2>
