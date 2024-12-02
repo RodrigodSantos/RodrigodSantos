@@ -40,7 +40,7 @@
 </p>
 
 <div align="center">
-    <img src="https://media.tenor.com/TRLv_HmBU2kAAAAj/pikachu.gif&" width ="75">
+    <img src="https://media.tenor.com/SH31iAEWLT8AAAAi/pikachu-running.gif" width ="75">
     <h1>Se você só fizer o que sabe,<br> nunca será mais do que é agora...</h1>
 </div>
 
