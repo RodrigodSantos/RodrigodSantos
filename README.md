@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1565d8&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=1565d8&size=30&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Rodrigo;Desenvolvedor+Java+%2B+Spring;Indo+para+o+full+stack+com+React" alt="Olá! Eu sou o Rodrigo" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=1565d8&size=30&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Rodrigo;Desenvolvedor+Java+%2B+Spring;" alt="Olá! Eu sou o Rodrigo" /></a>
 </div>
 
 ## 👨‍💻 Sobre mim
