@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1565d8&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?color=0f04fc&size=32&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+o+Rodrigo;Desenvolvedor+Java+%2B+Spring;Indo+para+o+full+stack+com+React" alt="Olá! Eu sou o Rodrigo" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=1565d8&size=30&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Rodrigo;Desenvolvedor+Java+%2B+Spring;Indo+para+o+full+stack+com+React" alt="Olá! Eu sou o Rodrigo" /></a>
 </div>
 
 ## 👨‍💻 Sobre mim
@@ -10,15 +10,15 @@
 - 🌱 Expandindo para o **full stack** com **React + TypeScript**
 - 🎓 Graduado em Sistemas para Internet
 - ✅ Gosto de entregar projeto completo: testes contra banco real, CI, cobertura de código e deploy com demo no ar
-- 📫 [LinkedIn]([https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/rodrigo-dos-santos-b04003226/?isSelfProfile=true))
+- 📫 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
 
 ## 🚀 Projetos em destaque
 
 | Projeto | O que é | Stack | Demo |
 |---|---|---|---|
-| 🎮 [**Up Leveling**](https://github.com/RodrigodSantos/up-leveling) | API de hábitos gamificados: check-ins rendem XP, sequências diárias dão bônus e o usuário sobe de nível | Java 21, Spring Boot 4, Spring Security + JWT, PostgreSQL, Flyway, Testcontainers | [Swagger](https://up-leveling-api.onrender.com) |
-| 🖥️ [**Up Leveling Web**](https://github.com/RodrigodSantos/up-leveling-web) | Frontend do Up Leveling: missões do dia, check-in, streak e barra de nível *(em construção)* | React 19, TypeScript, Vite, Tailwind CSS, shadcn/ui, TanStack Query, Vitest | [App](https://up-leveling-web.vercel.app) |
-| 💰 [**Finanças API**](https://github.com/RodrigodSantos/financas-api) | API de finanças pessoais: contas, categorias, receitas e despesas, relatório mensal e exportação CSV | Java 17, Spring Boot 3, Spring Security + JWT, PostgreSQL, Flyway, Testcontainers | [Swagger](https://financas-api-cp5q.onrender.com) |
+| 🎮&nbsp;[**Up&nbsp;Leveling**](https://github.com/RodrigodSantos/up-leveling) | API de hábitos gamificados: check-ins rendem XP, sequências diárias dão bônus e o usuário sobe de nível | Java 21, Spring Boot 4, Spring Security + JWT, PostgreSQL, Flyway, Testcontainers | [Swagger](https://up-leveling-api.onrender.com) |
+| 🖥️&nbsp;[**Up&nbsp;Leveling&nbsp;Web**](https://github.com/RodrigodSantos/up-leveling-web) | Frontend do Up Leveling: missões do dia, check-in, streak e barra de nível *(em construção)* | React 19, TypeScript, Vite, Tailwind CSS, shadcn/ui, TanStack Query, Vitest | [App](https://up-leveling-web.vercel.app) |
+| 💰&nbsp;[**Finanças&nbsp;API**](https://github.com/RodrigodSantos/financas-api) | API de finanças pessoais: contas, categorias, receitas e despesas, relatório mensal e exportação CSV | Java 17, Spring Boot 3, Spring Security + JWT, PostgreSQL, Flyway, Testcontainers | [Swagger](https://financas-api-cp5q.onrender.com) |
 
 > 🔑 As demos têm conta pronta para testar, com dados de exemplo. O login está no README de cada projeto.
 > ⏳ Estão no plano gratuito: a primeira requisição pode levar cerca de 1 minuto para "acordar" a API.
